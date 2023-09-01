@@ -1,6 +1,6 @@
-import requests
-import os
 import sys
+import os
+import requests
 
 ENDPOINT = 'https://sandbox.sistock.org/app/export/?op=delivery1'
 
